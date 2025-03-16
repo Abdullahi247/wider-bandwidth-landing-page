@@ -1,0 +1,73 @@
+# Next.js
+# See https://nextjs.org/docs/basic-features/supported-browsers-features
+
+# Logs
+logs
+*.log
+
+# Runtime data
+.pnp
+.pnp.js
+
+# Dependency directories
+node_modules/
+.next/
+.out/
+
+# Editor directories and files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# IDEs and editors
+*.sublime-project
+*.sublime-workspace
+*.sublime-gutter-settings
+*.sublime-session
+*.sublime-build
+*.sublime-commands
+*.sublime-menu
+*.sublime-keymap
+*.sublime-settings
+*.sublime-mousemap
+*.sublime-imap
+*.sublime-completions
+*.sublime-snippets
+*.sublime-macro
+*.sublime-theme
+*.sublime-color-scheme
+*.sublime-keymap
+*.sublime-settings
+*.sublime-mousemap
+*.sublime-imap
+*.sublime-completions
+*.sublime-snippets
+*.sublime-macro
+*.sublime-theme
+*.sublime-color-scheme
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Next.js build output
+.next/
+.out/
+
+# Next.js cache
+.cache/
+
+# Next.js config
+next.config.js
+next.config.mjs
+
+# Next.js build output
+.build/
+.dist/
