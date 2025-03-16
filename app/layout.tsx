@@ -7,9 +7,9 @@ import MouseMoveEffect from "@/components/mouse-move-effect"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Amane Soft - Cutting-Edge Software Solutions",
-  description: "Amane Soft delivers innovative, high-performance software solutions for businesses of the future.",
-    generator: 'v0.dev'
+  title: "Abdullah Yusuf - Software Engineer & Cloud Architect",
+  description: "With a focus on innovation and performance, I transform ideas into reality, driving growth and success for the future.",
+  icons: "../public/placeholder-logo.png"
 }
 
 export default function RootLayout({

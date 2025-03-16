@@ -73,7 +73,7 @@ export default function Features() {
           Building Solutions
         </h2>
         <p className="mt-4 text-muted-foreground sm:text-lg">
-          Explore how Wider Bandwidth can revolutionize your business, company and organization through
+          Explore how I can revolutionize your business, company and organization through
           cutting-edge technology and innovative solutions
         </p>
       </div>
